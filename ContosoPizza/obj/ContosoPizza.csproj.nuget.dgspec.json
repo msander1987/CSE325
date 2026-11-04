@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\W01\\filesManipulation\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\CSE325_REPO\\CSE325\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\W01\\filesManipulation\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\CSE325_REPO\\CSE325\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\W01\\filesManipulation\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\CSE325_REPO\\CSE325\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\W01\\filesManipulation\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\CSE325_REPO\\CSE325\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\default.LAPTOP-FJ8CKPDK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\W01\\filesManipulation\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\default.LAPTOP-FJ8CKPDK\\Desktop\\BYU\\CSE 325\\CSE325_REPO\\CSE325\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\default.LAPTOP-FJ8CKPDK\\AppData\\Roaming\\NuGet\\NuGet.Config"

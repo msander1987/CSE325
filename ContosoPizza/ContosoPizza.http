@@ -26,11 +26,11 @@ Content-Type: application/json
 
 {
     "id": 3,
-    "name": "Hawaiian",
+    "name": "Criolla Uruguaya",
     "isGlutenFree": false
 }
 
 ###
-DELETE {{ContosoPizza_HostAddress}}/pizza/4
+DELETE {{ContosoPizza_HostAddress}}/pizza/3
 
 ###
